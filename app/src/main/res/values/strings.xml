@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="categoty_museums">Museums</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="category_parks">Parks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
