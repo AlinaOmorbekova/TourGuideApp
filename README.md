@@ -7,10 +7,10 @@ Location place and phone num are clickable and can open
 ![Alt text](https://i.imgur.com/A5FKUkr.jpg)
 
 Description
-![Alt text](https://i.imgur.com/d3nzVME.png)
+![Alt text](https://i.imgur.com/Y7jHFOc.jpg)
 
 Info about objects
-![Alt text](https://i.imgur.com/xoLNTPL.png)
+![Alt text](https://i.imgur.com/PjJ7Z5h.jpg)
 
 Clickable phone button
-![Alt text](https://i.imgur.com/xoLNTPL.png)
+![Alt text](https://i.imgur.com/5dNh7Vz.jpg)
